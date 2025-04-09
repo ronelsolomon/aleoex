@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+jupyterlab
+streamlit
+torch
+torchvision
+pydicom
+opencv-contrib-python
+detecto
+tqdm
