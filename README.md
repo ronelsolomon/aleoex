@@ -1,3 +1,5 @@
+This project was for school, and I worked with 5 other people. Created this to show when job interviewer asked for project links.
+
 # AeoluX.ai
 
 ## Table of Contents
